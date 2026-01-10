@@ -1,0 +1,4 @@
+- 속도가 가장 빠름. *모니터링·통계* 같이 약간의 오차를 감수할 때만 잠깐 씀.
+- **운영 트랜잭션에서는 사실상 사용 X**
+-
+- Dirty Read, Non‑Repeatable Read, Phantom Read 발생

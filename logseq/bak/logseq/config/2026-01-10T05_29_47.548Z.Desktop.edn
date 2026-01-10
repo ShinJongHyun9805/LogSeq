@@ -423,7 +423,7 @@
  :builtin-pages? false
  :excluded-pages? false
  :orphan-pages? true}
- :graph/forcesettings {:link-dist 40
+ :graph/forcesettings {:link-dist 100
  :charge-strength -1000
  :charge-range 700}
  :feature/enable-whiteboards? false}

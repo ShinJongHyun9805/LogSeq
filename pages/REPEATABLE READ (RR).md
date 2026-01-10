@@ -1,0 +1,4 @@
+- 재고·잔액처럼 **“읽고 바로 수정”** 하는 로직에 잘 맞음.
+-
+- Dirty Read, Non‑Repeatable Read 방지
+- Phantom Read 발생 가능.
